@@ -14,4 +14,11 @@ print('String in single quotes') # Python ignore pound or hash sign
 
 print("String in double quotes")
 
-# String in python can be in ' ' or "" quotations. 
+# String in python can be in ' ' or "" quotations.
+
+# why single/double quotations is not getting printed?
+
+# Postulate 1: 
+# Python when gets quotations, it understands it as a beginning of string.
+
+# To prove the above postulate, head over to Exercise 3   
