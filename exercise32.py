@@ -24,4 +24,3 @@ printFiveTimes('Watson')
 name = 'Kim'
 printFiveTimes(name) # you can also pass variables
 # but pass string only.
-
