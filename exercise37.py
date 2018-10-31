@@ -1,5 +1,5 @@
 """
-In this and the next exercise, we're going to challenge ourself.
+In this and the next exercise, we're going to challenge ourselves.
 
 We will be creating a complex function.
 
