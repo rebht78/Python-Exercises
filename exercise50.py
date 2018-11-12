@@ -13,3 +13,6 @@ fav_fruits.sort()
 
 # printing the sorted list
 print(fav_fruits)
+
+# you can have int or mixed of str and int values in your list
+# check the output of each of the list.
